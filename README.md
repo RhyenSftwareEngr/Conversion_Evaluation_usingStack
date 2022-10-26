@@ -13,8 +13,8 @@ A java project to implement the data structures mainly the use of Stacks without
 * Menu of the program
 * ![](src/Documentation/Stack_documentation/Menu.png)
 * When user enter 1
-* ![](src/Documentation/Stack_documentation/input1.1.png)
-* ![](src/Documentation/Stack_documentation/input1.2.png)
+![](src/Documentation/Stack_documentation/input1.1.png)
+![](src/Documentation/Stack_documentation/input1.2.png)
 * When user input 2
 * ![](src/Documentation/Stack_documentation/input2.0.png)
 * When user input 3
