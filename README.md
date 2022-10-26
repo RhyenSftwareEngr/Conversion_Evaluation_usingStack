@@ -9,16 +9,16 @@ A java project to implement the data structures mainly the use of Stacks without
 
 #### A brief overview:
 * Acknoledgement: The members in the picture all contributed to create this succesful program
-* ![](src/Documentation/Stack_documentation/input1.1.png)
+![](src/Stack_documentation/Intro_members.png)
 * Menu of the program
-* ![](src/Documentation/Stack_documentation/Menu.png)
+![](src/Stack_documentation/Menu.png)
 * When user enter 1
-![](src/Documentation/Stack_documentation/input1.1.png)
-![](src/Documentation/Stack_documentation/input1.2.png)
+![](src/Stack_documentation/input1.1.png)
+![](src/Stack_documentation/input1.2.png)
 * When user input 2
-* ![](src/Documentation/Stack_documentation/input2.0.png)
+![](src/Stack_documentation/input2.0.png)
 * When user input 3
-* ![](src/Documentation/Stack_documentation/input3.0.png)
+![](src/Stack_documentation/input3.0.png)
 * When user input 4
-* ![](src/Documentation/Stack_documentation/input4.0.png)
+![](src/Stack_documentation/input4.0.png)
 

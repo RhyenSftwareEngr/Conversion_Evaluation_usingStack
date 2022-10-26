@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TesterClass2 {
+public class testerClass {
     public static Scanner sc = new Scanner(System.in); // creating object of Scanner class
     static HelperFunctions convert = new HelperFunctions();
 

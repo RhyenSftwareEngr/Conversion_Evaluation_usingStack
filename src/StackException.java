@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class StackException {
+public class StackException extends RuntimeException {
+    public StackException(String err) {
+        super(err);
+    }
 }
